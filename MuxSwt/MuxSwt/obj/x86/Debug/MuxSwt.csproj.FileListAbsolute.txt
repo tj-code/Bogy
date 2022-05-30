@@ -1,0 +1,20 @@
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\bin\Debug\MuxSwt.exe
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\bin\Debug\MuxSwt.pdb
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.Form1.resources
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.Properties.Resources.resources
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.exe
+C:\temp\bugs\MuxSwt\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.pdb
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\bin\Debug\MuxSwt.exe.config
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\bin\Debug\MuxSwt.exe
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\bin\Debug\MuxSwt.pdb
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.csproj.AssemblyReference.cache
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.Form1.resources
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.Properties.Resources.resources
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.csproj.GenerateResource.cache
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.csproj.CoreCompileInputs.cache
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.exe
+C:\Users\bogey\Documents\Visual Studio 2022\MuxSwt\MuxSwt\obj\x86\Debug\MuxSwt.pdb
